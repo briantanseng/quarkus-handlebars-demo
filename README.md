@@ -17,5 +17,5 @@ mvn compile quarkus:dev
 ```
 
 ## View the template in action
-Browse to http://localhost:8080/resources and refresh your browser several times. This is the server-rendered html. Enjoy!
+Browse to http://localhost:8080/resources and refresh your browser several times. This is server-rendered HTML. Enjoy!
 
