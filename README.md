@@ -2,7 +2,7 @@
 
 ## Get the code
 ```
-git clone https://github.com/briantanseng/quarkus-handlebars-demo.git && git cd quarkus-handlebars-demo
+git clone https://github.com/briantanseng/quarkus-handlebars-demo.git && cd quarkus-handlebars-demo
 ```
 
 ## Edit the location of the templates
